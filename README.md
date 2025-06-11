@@ -1,5 +1,6 @@
 # Resume-Screening-App
-Resume Screening App With Python and Machine Learning 
+Resume Screening App With Python and Machine Learning.
+
 A machine learning application that automatically categorizes resumes into job types. Upload PDF, DOCX or TXT files and get instant predictions.
 
 ![Python](https://img.shields.io/badge/python-v3.7+-blue.svg)
