@@ -142,7 +142,7 @@ for filename in os.listdir("resume_folder"):
 - **Expanded Categories**: Adding more job categories based on industry standards. Also widenng the categories in place of the current oversimplified ones.
 - **Improved Accuracy**: Retraining models with larger and more diverse datasets
 - **Additional Features**: Working on confidence scores, skill extraction and experience level detection
-- A/B testing with real users/HR professionals
+- A/B testing with real users/HR professionals along with LLM based fallback
 
 ### Planned Features
 - [ ] Batch file upload support
